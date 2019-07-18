@@ -1,4 +1,2 @@
-* [home1](home1)
-* [home2](home2)
-* [bar](bar/)
-* [bar/a](bar/a)
+* [首页](/)
+* [小程序接入指南](wechat/_wechat-1)
